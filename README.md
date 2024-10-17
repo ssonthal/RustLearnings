@@ -24,8 +24,10 @@ Beginner Level
 CLI Utilities:
 
 Build small command-line tools. Rust’s ownership model and concurrency support make it ideal for this.
+
 Project 1: To-Do List CLI
 Create a simple command-line to-do list application where you can add, edit, and delete tasks. This will help you get comfortable with standard I/O and basic Rust syntax.
+
 Project 2: File Renamer
 A tool to bulk rename files in a directory based on user input or predefined patterns (e.g., adding prefixes, suffixes, or replacing substrings). Learn file I/O, error handling, and string manipulation.
 Basic Web Scraper:
