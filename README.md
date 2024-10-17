@@ -25,7 +25,7 @@ CLI Utilities:
 
 Build small command-line tools. Rust’s ownership model and concurrency support make it ideal for this.
 
-Project 1: To-Do List CLI
+Project 1: To-Do List CLI (https://github.com/ssonthal/todo_cli_rs)
 Create a simple command-line to-do list application where you can add, edit, and delete tasks. This will help you get comfortable with standard I/O and basic Rust syntax.
 
 Project 2: File Renamer
